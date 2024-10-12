@@ -5,6 +5,10 @@ Acceso directo a la Base de Datos íntegra en:
 
 https://github.com/JaviZum/Proyecto-Mysql/blob/main/CODIGO%20COMPLETO%20MYSQL%20UNIVERSIDAD.sql
 
-Acceso a las tablas en:
+Acceso directo a las tablas en:
 
-Acceso a las consultas en:
+Acceso directo a las consultas en:
+
+Acceso directo a los Scripts en:
+
+https://github.com/JaviZum/Proyecto-Mysql/blob/main/SCRIPT%20DATOS.sql
