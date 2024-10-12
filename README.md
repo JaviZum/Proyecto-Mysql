@@ -11,6 +11,8 @@ https://github.com/JaviZum/Proyecto-Mysql/blob/main/TABLAS.sql
 
 Acceso directo a las consultas en:
 
+https://github.com/JaviZum/Proyecto-Mysql/blob/main/CONSULTAS.sql
+
 Acceso directo a los Scripts en:
 
 https://github.com/JaviZum/Proyecto-Mysql/blob/main/SCRIPT%20DATOS.sql
