@@ -7,6 +7,8 @@ https://github.com/JaviZum/Proyecto-Mysql/blob/main/CODIGO%20COMPLETO%20MYSQL%20
 
 Acceso directo a las tablas en:
 
+https://github.com/JaviZum/Proyecto-Mysql/blob/main/TABLAS.sql
+
 Acceso directo a las consultas en:
 
 Acceso directo a los Scripts en:
